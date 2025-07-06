@@ -1,5 +1,5 @@
 # app.py (Simplified for Jenkins "Run Script" demo)
-import sys
+import sys         #Updated For SCM Polling demo
 import os
 from flask import Flask # Still import Flask, but won't run web server
 
